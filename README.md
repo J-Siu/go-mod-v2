@@ -16,6 +16,7 @@ This is an example project for my blog [Go Module/Package v2 and after](https://
   - Initial commit
 - v1.0.0
 - v2.0.0
+- v3.0.0
 
 ### License
 
