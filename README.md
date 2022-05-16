@@ -1,6 +1,16 @@
-## Go Module/Package Versioning Example
+# Go Module/Package Versioning Example [![Paypal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=HZF49NM9D35SJ&no_recurring=0&currency_code=CAD)
 
-This is an example project for my blog [Go Module/Package v2 and after](https://johnsiu.com/blog/go-mod-v2/).
+Example repository for [Go Module/Package v2 and after](https://johnsiu.com/blog/go-mod-v2/).
+
+### Table Of Content
+<!-- TOC -->
+
+- [Repository](#repository)
+- [Contributors](#contributors)
+- [Change Log](#change-log)
+- [License](#license)
+
+<!-- /TOC -->
 
 ### Repository
 
